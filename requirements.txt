@@ -1,0 +1,5 @@
+# updated: 16th April 2016
+# requirements file
+statsmodels
+bokeh
+seaborn
