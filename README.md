@@ -15,7 +15,8 @@ Hovering over an individual point on the plot reveals the following information:
 
 ![rb-plot-example](rb-plot-example.png)
 
-## Data sources
+## Additional Information
+### Data sources
 Passing, rushing and receiving data for individual seasons:  
 [Pro-football reference](http://www.pro-football-reference.com/years/2015/passing.htm)  
 Scouting combine and player database:  
