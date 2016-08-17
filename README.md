@@ -1,4 +1,4 @@
-# NFL Combine Evaluation Notebooks
+# NFL Combine Evaluation
 collaborators: Long Chen, Melaku Dubie, Rich Lee and Kivan Polimis
 <br>
 
