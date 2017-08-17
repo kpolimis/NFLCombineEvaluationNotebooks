@@ -3,9 +3,9 @@ collaborators: Long Chen, Melaku Dubie, Rich Lee and Kivan Polimis
 <br>
 
 ## Interactive plotting
-Press the ![Binder](https://beta.mybinder.org/v2/gh/kpolimis/nfl-combine-evaluation-plots/master) link to open a jupyter notebook directory window.
+Press this [Binder link](https://beta.mybinder.org/v2/gh/kpolimis/nfl-combine-evaluation-plots/master) to open a jupyter notebook directory window.
 Select plots.ipynb to start an interactive notebook that plots the relationship between assorted Combine
-metrics (40 time, vertical, speed score, etc.) and total yards in a NFL career for quarterbacks, running backs and wide receivers. 
+metrics (40 time, vertical, speed score, etc.) and total yards in a NFL career for quarterbacks, running backs and wide receivers. Press "shift+enter" in a cell to load the graphs. You will have the option to save static plots within each graph.
 
 Below each metric-specific plot is an explanation of the metric, the goal of the combine test, and a short discussion about variation between positions. LaDainian Tomlinson (highlighted player in example), is an elite running back that demonstrates a strong observed positional relationship between combine metrics and career performance: 
 
