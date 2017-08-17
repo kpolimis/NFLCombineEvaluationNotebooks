@@ -3,7 +3,7 @@ collaborators: Long Chen, Melaku Dubie, Rich Lee and Kivan Polimis
 <br>
 
 ## Interactive plotting
-Press the [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/kpolimis/nfl-combine-evaluation-plots) link to open a jupyter notebook directory window.
+Press the [![Binder](https://beta.mybinder.org/v2/gh/kpolimis/nfl-combine-evaluation-plots/master) link to open a jupyter notebook directory window.
 Select plots.ipynb to start an interactive notebook that plots the relationship between assorted Combine
 metrics (40 time, vertical, speed score, etc.) and total yards in a NFL career for quarterbacks, running backs and wide receivers. 
 
