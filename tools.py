@@ -463,7 +463,7 @@ def fit_line(regdata, combinedata, rrdata):
     plt.plot(regdata[combinedata], res.fittedvalues, 'r--', label="OLS")
     plt.show(block=False)
     # print("R^2 = %d ") % (res.rsquared)
-    print res.summary()
+    print(res.summary())
 
 
 def select_columns():
