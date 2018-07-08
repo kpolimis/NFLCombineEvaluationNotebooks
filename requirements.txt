@@ -1,5 +1,5 @@
-# updated: 16th April 2016
+# updated: 8th July 2018
 # requirements file
 statsmodels
-bokeh==0.11
+bokeh
 seaborn
